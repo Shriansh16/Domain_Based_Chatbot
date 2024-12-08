@@ -1,4 +1,6 @@
 # Domain-Based Chatbot
+Deployed link: https://domainbasedchatbot.streamlit.app/                                                             
+(Note: It will take some time for the first query.)
 
 ## Steps Followed  
 
